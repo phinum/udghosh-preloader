@@ -1,0 +1,26 @@
+#div3 {
+    width: 300px;
+    height: 300px;
+    display: none;
+    margin: auto;
+    margin-top: 8%;
+    background-image: url("udghosh_cover.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#q {
+    color: rgb(120, 120, 120);
+    margin-top: 8%;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(248, 248, 248);
+    border-radius: 4px;
+    display: inline-block;
+    padding: 0.8%;
+}
